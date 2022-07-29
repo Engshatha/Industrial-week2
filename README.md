@@ -19,3 +19,14 @@ requirements and analysis:
 
 6- الروبوت مضيف الطيران : 
 روبوت يستطيع التواصل باكثر من لغه مع الناس ويستطيع المشي بسلاسه وتقديم الاكل ومساعدة المسافرين 
+
+
+design: 
+
+قمنا بتصميم العجلات وال suspension system  في مسار الهندسة الميكانكية 
+
+![photo_2022-07-29_03-18-16](https://user-images.githubusercontent.com/108091010/181658035-c43ff088-b40a-4c18-8153-374f37840201.jpg)
+
+testing unit :
+
+![photo_2022-07-29_03-18-20](https://user-images.githubusercontent.com/108091010/181658058-902b3558-f34c-4015-93c4-3db7fd3192c0.jpg)
